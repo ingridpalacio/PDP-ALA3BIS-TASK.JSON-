@@ -1,0 +1,884 @@
+[
+    {
+        "titulo": "Diseñar algoritmo de ordenamiento",
+        "descripcion": "Implementar y comparar bubble sort y quicksort.",
+        "estado": "PENDING",
+        "creacion": "2025-10-01T09:00:00",
+        "ultimaEdicion": "2025-10-01T09:00:00",
+        "vencimiento": "2025-10-15T23:59:00",
+        "dificultad": 2
+    },
+    {
+        "titulo": "Configurar red local IPv4",
+        "descripcion": null,
+        "estado": "IN-PROGRESS",
+        "creacion": "2025-10-02T10:30:00",
+        "ultimaEdicion": null,
+        "vencimiento": null,
+        "dificultad": 1
+    },
+    {
+        "titulo": "Crear API RESTful en Node.js",
+        "descripcion": "Debe incluir rutas GET, POST, PUT y DELETE.",
+        "estado": "FINISHED",
+        "creacion": "2025-09-28T14:45:00",
+        "ultimaEdicion": "2025-10-03T11:00:00",
+        "vencimiento": null,
+        "dificultad": 3
+    },
+    {
+        "titulo": "Simular circuito lógico con compuertas AND y OR",
+        "descripcion": null,
+        "estado": "PENDING",
+        "creacion": "2025-10-04T08:15:00",
+        "ultimaEdicion": null,
+        "vencimiento": "2025-10-20T23:59:00",
+        "dificultad": 2
+    },
+    {
+        "titulo": "Documentar estructura de datos Árbol Binario",
+        "descripcion": "Explicar inserción, búsqueda y recorrido in-order.",
+        "estado": "CANCELED",
+        "creacion": "2025-09-30T16:00:00",
+        "ultimaEdicion": "2025-10-01T12:00:00",
+        "vencimiento": null,
+        "dificultad": 1
+    },
+    {
+        "titulo": "Implementar búsqueda binaria",
+        "descripcion": "Función en Java que reciba un arreglo ordenado y un valor objetivo.",
+        "estado": "PENDING",
+        "creacion": "2025-10-05T10:00:00",
+        "ultimaEdicion": null,
+        "vencimiento": "2025-10-18T23:59:00",
+        "dificultad": 2
+    },
+    {
+        "titulo": "Simular protocolo TCP",
+        "descripcion": null,
+        "estado": "IN-PROGRESS",
+        "creacion": "2025-10-06T11:30:00",
+        "ultimaEdicion": null,
+        "vencimiento": null,
+        "dificultad": 3
+    },
+    {
+        "titulo": "Crear diagrama de flujo para login",
+        "descripcion": "Debe incluir validación de usuario y contraseña.",
+        "estado": "FINISHED",
+        "creacion": "2025-09-25T09:00:00",
+        "ultimaEdicion": "2025-09-26T10:00:00",
+        "vencimiento": null,
+        "dificultad": 1
+    },
+    {
+        "titulo": "Analizar complejidad de algoritmo de búsqueda lineal",
+        "descripcion": null,
+        "estado": "PENDING",
+        "creacion": "2025-10-07T08:45:00",
+        "ultimaEdicion": null,
+        "vencimiento": "2025-10-21T23:59:00",
+        "dificultad": 2
+    },
+    {
+        "titulo": "Configurar servidor DHCP",
+        "descripcion": "Asignación automática de IPs en red local.",
+        "estado": "CANCELED",
+        "creacion": "2025-09-29T14:00:00",
+        "ultimaEdicion": "2025-10-01T09:00:00",
+        "vencimiento": null,
+        "dificultad": 3
+    },
+    {
+        "titulo": "Crear simulador de pila",
+        "descripcion": null,
+        "estado": "PENDING",
+        "creacion": "2025-10-08T10:00:00",
+        "ultimaEdicion": null,
+        "vencimiento": "2025-10-22T23:59:00",
+        "dificultad": 2
+    },
+    {
+        "titulo": "Diseñar base de datos para biblioteca",
+        "descripcion": "Debe incluir libros, autores y préstamos.",
+        "estado": "IN-PROGRESS",
+        "creacion": "2025-10-09T11:00:00",
+        "ultimaEdicion": null,
+        "vencimiento": null,
+        "dificultad": 3
+    },
+    {
+        "titulo": "Implementar validación de formularios en HTML",
+        "descripcion": null,
+        "estado": "FINISHED",
+        "creacion": "2025-09-27T13:00:00",
+        "ultimaEdicion": "2025-09-28T14:00:00",
+        "vencimiento": null,
+        "dificultad": 1
+    },
+    {
+        "titulo": "Simular algoritmo de Dijkstra",
+        "descripcion": "Encontrar el camino más corto en un grafo.",
+        "estado": "PENDING",
+        "creacion": "2025-10-10T09:30:00",
+        "ultimaEdicion": null,
+        "vencimiento": "2025-10-25T23:59:00",
+        "dificultad": 3
+    },
+    {
+        "titulo": "Crear estructura de datos Cola",
+        "descripcion": null,
+        "estado": "IN-PROGRESS",
+        "creacion": "2025-10-11T10:15:00",
+        "ultimaEdicion": null,
+        "vencimiento": null,
+        "dificultad": 2
+    },
+    {
+        "titulo": "Diseñar interfaz gráfica para calculadora",
+        "descripcion": "Debe incluir operaciones básicas.",
+        "estado": "FINISHED",
+        "creacion": "2025-09-26T15:00:00",
+        "ultimaEdicion": "2025-09-27T10:00:00",
+        "vencimiento": null,
+        "dificultad": 1
+    },
+    {
+        "titulo": "Configurar NAT en router doméstico",
+        "descripcion": null,
+        "estado": "PENDING",
+        "creacion": "2025-10-12T08:30:00",
+        "ultimaEdicion": null,
+        "vencimiento": "2025-10-26T23:59:00",
+        "dificultad": 2
+    },
+    {
+        "titulo": "Crear documentación técnica de proyecto",
+        "descripcion": "Debe incluir objetivos, herramientas y resultados.",
+        "estado": "CANCELED",
+        "creacion": "2025-09-28T16:00:00",
+        "ultimaEdicion": "2025-10-02T12:00:00",
+        "vencimiento": null,
+        "dificultad": 1
+    },
+    {
+        "titulo": "Simular red con topología estrella",
+        "descripcion": null,
+        "estado": "PENDING",
+        "creacion": "2025-10-13T09:00:00",
+        "ultimaEdicion": null,
+        "vencimiento": "2025-10-27T23:59:00",
+        "dificultad": 2
+    },
+    {
+        "titulo": "Implementar CRUD en PHP",
+        "descripcion": "Debe incluir conexión a MySQL.",
+        "estado": "IN-PROGRESS",
+        "creacion": "2025-10-14T10:00:00",
+        "ultimaEdicion": null,
+        "vencimiento": null,
+        "dificultad": 3
+    },
+    {
+        "titulo": "Crear script de backup automático",
+        "descripcion": null,
+        "estado": "FINISHED",
+        "creacion": "2025-09-29T11:00:00",
+        "ultimaEdicion": "2025-09-30T12:00:00",
+        "vencimiento": null,
+        "dificultad": 2
+    },
+    {
+        "titulo": "Diseñar lógica de semáforo con Arduino",
+        "descripcion": "Usar LEDs y temporizador.",
+        "estado": "PENDING",
+        "creacion": "2025-10-15T08:45:00",
+        "ultimaEdicion": null,
+        "vencimiento": "2025-10-28T23:59:00",
+        "dificultad": 1
+    },
+    {
+        "titulo": "Simular ataque de denegación de servicio",
+        "descripcion": null,
+        "estado": "CANCELED",
+        "creacion": "2025-09-30T14:00:00",
+        "ultimaEdicion": "2025-10-01T15:00:00",
+        "vencimiento": null,
+        "dificultad": 3
+    },
+    {
+        "titulo": "Crear plantilla de informe técnico",
+        "descripcion": "Debe incluir portada, índice y conclusiones.",
+        "estado": "PENDING",
+        "creacion": "2025-10-16T09:30:00",
+        "ultimaEdicion": null,
+        "vencimiento": "2025-10-29T23:59:00",
+        "dificultad": 1
+    },
+    {
+        "titulo": "Diseñar sistema de login con sesiones",
+        "descripcion": null,
+        "estado": "IN-PROGRESS",
+        "creacion": "2025-10-17T10:00:00",
+        "ultimaEdicion": null,
+        "vencimiento": null,
+        "dificultad": 2
+    },
+    {
+        "titulo": "Crear dashboard con gráficos en JavaScript",
+        "descripcion": "Usar Chart.js para representar datos de ventas.",
+        "estado": "FINISHED",
+        "creacion": "2025-10-18T09:00:00",
+        "ultimaEdicion": "2025-10-19T10:00:00",
+        "vencimiento": null,
+        "dificultad": 2
+    },
+    {
+        "titulo": "Simular red con topología en anillo",
+        "descripcion": null,
+        "estado": "PENDING",
+        "creacion": "2025-10-19T10:30:00",
+        "ultimaEdicion": null,
+        "vencimiento": "2025-10-30T23:59:00",
+        "dificultad": 2
+    },
+    {
+        "titulo": "Crear script de instalación automática",
+        "descripcion": "Debe instalar dependencias y configurar entorno.",
+        "estado": "IN-PROGRESS",
+        "creacion": "2025-10-20T11:00:00",
+        "ultimaEdicion": null,
+        "vencimiento": null,
+        "dificultad": 3
+    },
+    {
+        "titulo": "Diseñar lógica de semáforo peatonal",
+        "descripcion": null,
+        "estado": "PENDING",
+        "creacion": "2025-10-21T08:45:00",
+        "ultimaEdicion": null,
+        "vencimiento": "2025-11-01T23:59:00",
+        "dificultad": 1
+    },
+    {
+        "titulo": "Documentar funciones de módulo de seguridad",
+        "descripcion": "Incluir firma digital y cifrado.",
+        "estado": "CANCELED",
+        "creacion": "2025-10-22T09:30:00",
+        "ultimaEdicion": "2025-10-23T10:00:00",
+        "vencimiento": null,
+        "dificultad": 3
+    },
+    {
+        "titulo": "Simular red con topología árbol",
+        "descripcion": null,
+        "estado": "PENDING",
+        "creacion": "2025-10-23T10:15:00",
+        "ultimaEdicion": null,
+        "vencimiento": "2025-11-02T23:59:00",
+        "dificultad": 2
+    },
+    {
+        "titulo": "Implementar login con tokens JWT",
+        "descripcion": "Debe incluir expiración y verificación.",
+        "estado": "IN-PROGRESS",
+        "creacion": "2025-10-24T11:00:00",
+        "ultimaEdicion": null,
+        "vencimiento": null,
+        "dificultad": 3
+    },
+    {
+        "titulo": "Crear simulador de memoria RAM",
+        "descripcion": null,
+        "estado": "FINISHED",
+        "creacion": "2025-10-25T09:00:00",
+        "ultimaEdicion": "2025-10-26T10:00:00",
+        "vencimiento": null,
+        "dificultad": 2
+    },
+    {
+        "titulo": "Diseñar lógica de control de acceso",
+        "descripcion": "Usar RFID y base de datos.",
+        "estado": "PENDING",
+        "creacion": "2025-10-26T10:30:00",
+        "ultimaEdicion": null,
+        "vencimiento": "2025-11-03T23:59:00",
+        "dificultad": 3
+    },
+    {
+        "titulo": "Configurar servidor web Apache",
+        "descripcion": null,
+        "estado": "IN-PROGRESS",
+        "creacion": "2025-10-27T11:00:00",
+        "ultimaEdicion": null,
+        "vencimiento": null,
+        "dificultad": 2
+    },
+    {
+        "titulo": "Crear simulador de cola circular",
+        "descripcion": "Debe permitir inserción y extracción.",
+        "estado": "FINISHED",
+        "creacion": "2025-10-28T08:45:00",
+        "ultimaEdicion": "2025-10-29T09:30:00",
+        "vencimiento": null,
+        "dificultad": 2
+    },
+    {
+        "titulo": "Diseñar sistema de reservas online",
+        "descripcion": null,
+        "estado": "PENDING",
+        "creacion": "2025-10-29T09:00:00",
+        "ultimaEdicion": null,
+        "vencimiento": "2025-11-04T23:59:00",
+        "dificultad": 3
+    },
+    {
+        "titulo": "Documentar arquitectura cliente-servidor",
+        "descripcion": "Incluir ejemplos y diagramas.",
+        "estado": "CANCELED",
+        "creacion": "2025-10-30T10:00:00",
+        "ultimaEdicion": "2025-10-31T11:00:00",
+        "vencimiento": null,
+        "dificultad": 1
+    },
+    {
+        "titulo": "Simular red con topología mixta",
+        "descripcion": null,
+        "estado": "PENDING",
+        "creacion": "2025-10-31T11:30:00",
+        "ultimaEdicion": null,
+        "vencimiento": "2025-11-05T23:59:00",
+        "dificultad": 2
+    },
+    {
+        "titulo": "Crear sistema de autenticación con OAuth2",
+        "descripcion": "Debe incluir scopes y refresh tokens.",
+        "estado": "IN-PROGRESS",
+        "creacion": "2025-11-01T08:30:00",
+        "ultimaEdicion": null,
+        "vencimiento": null,
+        "dificultad": 3
+    },
+    {
+        "titulo": "Diseñar lógica de control de temperatura",
+        "descripcion": null,
+        "estado": "FINISHED",
+        "creacion": "2025-11-02T09:00:00",
+        "ultimaEdicion": "2025-11-03T10:00:00",
+        "vencimiento": null,
+        "dificultad": 1
+    },
+    {
+        "titulo": "Configurar servidor FTP",
+        "descripcion": "Permitir acceso anónimo y autenticado.",
+        "estado": "PENDING",
+        "creacion": "2025-11-03T10:30:00",
+        "ultimaEdicion": null,
+        "vencimiento": "2025-11-06T23:59:00",
+        "dificultad": 2
+    },
+    {
+        "titulo": "Crear simulador de árbol AVL",
+        "descripcion": null,
+        "estado": "IN-PROGRESS",
+        "creacion": "2025-11-04T11:00:00",
+        "ultimaEdicion": null,
+        "vencimiento": null,
+        "dificultad": 3
+    },
+    {
+        "titulo": "Diseñar sistema de control de inventario",
+        "descripcion": "Debe incluir alertas de stock bajo.",
+        "estado": "FINISHED",
+        "creacion": "2025-11-05T08:45:00",
+        "ultimaEdicion": "2025-11-06T09:30:00",
+        "vencimiento": null,
+        "dificultad": 2
+    },
+    {
+        "titulo": "Simular red con topología bus",
+        "descripcion": null,
+        "estado": "PENDING",
+        "creacion": "2025-11-06T09:00:00",
+        "ultimaEdicion": null,
+        "vencimiento": "2025-11-07T23:59:00",
+        "dificultad": 2
+    },
+    {
+        "titulo": "Documentar protocolo HTTP",
+        "descripcion": "Incluir métodos y códigos de estado.",
+        "estado": "CANCELED",
+        "creacion": "2025-11-07T10:00:00",
+        "ultimaEdicion": "2025-11-08T11:00:00",
+        "vencimiento": null,
+        "dificultad": 1
+    },
+    {
+        "titulo": "Crear simulador de heap binario",
+        "descripcion": null,
+        "estado": "PENDING",
+        "creacion": "2025-11-08T11:30:00",
+        "ultimaEdicion": null,
+        "vencimiento": "2025-11-09T23:59:00",
+        "dificultad": 3
+    },
+    {
+        "titulo": "Diseñar lógica de control de humedad",
+        "descripcion": "Usar sensor y actuador.",
+        "estado": "IN-PROGRESS",
+        "creacion": "2025-11-09T08:30:00",
+        "ultimaEdicion": null,
+        "vencimiento": null,
+        "dificultad": 1
+    },
+    {
+        "titulo": "Configurar servidor DNS",
+        "descripcion": null,
+        "estado": "FINISHED",
+        "creacion": "2025-11-10T09:00:00",
+        "ultimaEdicion": "2025-11-11T10:00:00",
+        "vencimiento": null,
+        "dificultad": 2
+    },
+    {
+        "titulo": "Crear simulador de grafo dirigido",
+        "descripcion": "Debe permitir ciclos y pesos.",
+        "estado": "PENDING",
+        "creacion": "2025-11-11T10:30:00",
+        "ultimaEdicion": null,
+        "vencimiento": "2025-11-12T23:59:00",
+        "dificultad": 3
+    },
+    {
+        "titulo": "Diseñar lógica de control de iluminación",
+        "descripcion": "Usar sensor de luz y relé.",
+        "estado": "IN-PROGRESS",
+        "creacion": "2025-11-12T09:00:00",
+        "ultimaEdicion": null,
+        "vencimiento": null,
+        "dificultad": 1
+    },
+    {
+        "titulo": "Configurar servidor proxy",
+        "descripcion": null,
+        "estado": "FINISHED",
+        "creacion": "2025-11-13T10:00:00",
+        "ultimaEdicion": "2025-11-14T11:00:00",
+        "vencimiento": null,
+        "dificultad": 2
+    },
+    {
+        "titulo": "Crear simulador de árbol B",
+        "descripcion": "Debe permitir inserción, búsqueda y eliminación.",
+        "estado": "PENDING",
+        "creacion": "2025-11-14T11:30:00",
+        "ultimaEdicion": null,
+        "vencimiento": "2025-11-15T23:59:00",
+        "dificultad": 3
+    },
+    {
+        "titulo": "Diseñar sistema de control de acceso RFID",
+        "descripcion": null,
+        "estado": "IN-PROGRESS",
+        "creacion": "2025-11-15T08:30:00",
+        "ultimaEdicion": null,
+        "vencimiento": null,
+        "dificultad": 2
+    },
+    {
+        "titulo": "Documentar protocolo TCP/IP",
+        "descripcion": "Incluir capas y funciones.",
+        "estado": "CANCELED",
+        "creacion": "2025-11-16T09:00:00",
+        "ultimaEdicion": "2025-11-17T10:00:00",
+        "vencimiento": null,
+        "dificultad": 1
+    },
+    {
+        "titulo": "Simular red con topología híbrida",
+        "descripcion": null,
+        "estado": "PENDING",
+        "creacion": "2025-11-17T10:30:00",
+        "ultimaEdicion": null,
+        "vencimiento": "2025-11-18T23:59:00",
+        "dificultad": 2
+    },
+    {
+        "titulo": "Crear sistema de autenticación biométrica",
+        "descripcion": "Usar huella digital.",
+        "estado": "IN-PROGRESS",
+        "creacion": "2025-11-18T11:00:00",
+        "ultimaEdicion": null,
+        "vencimiento": null,
+        "dificultad": 3
+    },
+    {
+        "titulo": "Diseñar lógica de control de velocidad",
+        "descripcion": null,
+        "estado": "FINISHED",
+        "creacion": "2025-11-19T08:45:00",
+        "ultimaEdicion": "2025-11-20T09:30:00",
+        "vencimiento": null,
+        "dificultad": 2
+    },
+    {
+        "titulo": "Configurar servidor de correo electrónico",
+        "descripcion": "Usar SMTP y POP3.",
+        "estado": "PENDING",
+        "creacion": "2025-11-20T09:00:00",
+        "ultimaEdicion": null,
+        "vencimiento": "2025-11-21T23:59:00",
+        "dificultad": 2
+    },
+    {
+        "titulo": "Crear simulador de árbol rojo-negro",
+        "descripcion": null,
+        "estado": "IN-PROGRESS",
+        "creacion": "2025-11-21T10:00:00",
+        "ultimaEdicion": null,
+        "vencimiento": null,
+        "dificultad": 3
+    },
+    {
+        "titulo": "Diseñar sistema de control de riego",
+        "descripcion": "Usar sensor de humedad y válvula.",
+        "estado": "FINISHED",
+        "creacion": "2025-11-22T11:30:00",
+        "ultimaEdicion": "2025-11-23T12:00:00",
+        "vencimiento": null,
+        "dificultad": 1
+    },
+    {
+        "titulo": "Simular red con topología mesh",
+        "descripcion": null,
+        "estado": "PENDING",
+        "creacion": "2025-11-23T08:30:00",
+        "ultimaEdicion": null,
+        "vencimiento": "2025-11-24T23:59:00",
+        "dificultad": 2
+    },
+    {
+        "titulo": "Documentar protocolo UDP",
+        "descripcion": "Incluir características y diferencias con TCP.",
+        "estado": "CANCELED",
+        "creacion": "2025-11-24T09:00:00",
+        "ultimaEdicion": "2025-11-25T10:00:00",
+        "vencimiento": null,
+        "dificultad": 1
+    },
+    {
+        "titulo": "Crear simulador de grafo no dirigido",
+        "descripcion": null,
+        "estado": "PENDING",
+        "creacion": "2025-11-25T10:30:00",
+        "ultimaEdicion": null,
+        "vencimiento": "2025-11-26T23:59:00",
+        "dificultad": 3
+    },
+    {
+        "titulo": "Diseñar lógica de control de presión",
+        "descripcion": "Usar sensor y válvula.",
+        "estado": "IN-PROGRESS",
+        "creacion": "2025-11-26T11:00:00",
+        "ultimaEdicion": null,
+        "vencimiento": null,
+        "dificultad": 2
+    },
+    {
+        "titulo": "Configurar servidor NTP",
+        "descripcion": null,
+        "estado": "FINISHED",
+        "creacion": "2025-11-27T08:45:00",
+        "ultimaEdicion": "2025-11-28T09:30:00",
+        "vencimiento": null,
+        "dificultad": 2
+    },
+    {
+        "titulo": "Crear simulador de árbol binario de búsqueda",
+        "descripcion": "Debe permitir recorrido in-order.",
+        "estado": "PENDING",
+        "creacion": "2025-11-28T09:00:00",
+        "ultimaEdicion": null,
+        "vencimiento": "2025-11-29T23:59:00",
+        "dificultad": 3
+    },
+    {
+        "titulo": "Diseñar sistema de control de temperatura ambiente",
+        "descripcion": null,
+        "estado": "IN-PROGRESS",
+        "creacion": "2025-11-29T10:00:00",
+        "ultimaEdicion": null,
+        "vencimiento": null,
+        "dificultad": 1
+    },
+    {
+        "titulo": "Documentar arquitectura de microservicios",
+        "descripcion": "Incluir ventajas y ejemplos.",
+        "estado": "CANCELED",
+        "creacion": "2025-11-30T11:30:00",
+        "ultimaEdicion": "2025-12-01T12:00:00",
+        "vencimiento": null,
+        "dificultad": 2
+    },
+    {
+        "titulo": "Simular red con topología punto a punto",
+        "descripcion": null,
+        "estado": "PENDING",
+        "creacion": "2025-12-01T08:30:00",
+        "ultimaEdicion": null,
+        "vencimiento": "2025-12-02T23:59:00",
+        "dificultad": 2
+    },
+    {
+        "titulo": "Crear sistema de autenticación con PIN",
+        "descripcion": "Debe incluir bloqueo por intentos fallidos.",
+        "estado": "IN-PROGRESS",
+        "creacion": "2025-12-02T09:00:00",
+        "ultimaEdicion": null,
+        "vencimiento": null,
+        "dificultad": 1
+    },
+    {
+        "titulo": "Diseñar lógica de control de ventilación",
+        "descripcion": null,
+        "estado": "FINISHED",
+        "creacion": "2025-12-03T10:00:00",
+        "ultimaEdicion": "2025-12-04T11:00:00",
+        "vencimiento": null,
+        "dificultad": 2
+    },
+    {
+        "titulo": "Configurar servidor SSH",
+        "descripcion": "Permitir acceso remoto seguro.",
+        "estado": "PENDING",
+        "creacion": "2025-12-04T11:30:00",
+        "ultimaEdicion": null,
+        "vencimiento": "2025-12-05T23:59:00",
+        "dificultad": 2
+    },
+    {
+        "titulo": "Crear simulador de árbol ternario",
+        "descripcion": null,
+        "estado": "IN-PROGRESS",
+        "creacion": "2025-12-05T08:30:00",
+        "ultimaEdicion": null,
+        "vencimiento": null,
+        "dificultad": 3
+    },
+    {
+        "titulo": "Diseñar sistema de control de acceso por código QR",
+        "descripcion": "Debe incluir escaneo y validación.",
+        "estado": "FINISHED",
+        "creacion": "2025-12-06T09:00:00",
+        "ultimaEdicion": "2025-12-07T10:00:00",
+        "vencimiento": null,
+        "dificultad": 2
+    },
+    {
+        "titulo": "Simular red con topología cliente-servidor",
+        "descripcion": null,
+        "estado": "PENDING",
+        "creacion": "2025-12-07T10:30:00",
+        "ultimaEdicion": null,
+        "vencimiento": "2025-12-08T23:59:00",
+        "dificultad": 2
+    },
+    {
+        "titulo": "Crear sistema de autenticación con reconocimiento facial",
+        "descripcion": "Debe incluir entrenamiento y verificación.",
+        "estado": "IN-PROGRESS",
+        "creacion": "2025-12-08T11:00:00",
+        "ultimaEdicion": null,
+        "vencimiento": null,
+        "dificultad": 3
+    },
+    {
+        "titulo": "Diseñar lógica de control de nivel de agua",
+        "descripcion": null,
+        "estado": "FINISHED",
+        "creacion": "2025-12-09T08:45:00",
+        "ultimaEdicion": "2025-12-10T09:30:00",
+        "vencimiento": null,
+        "dificultad": 1
+    },
+    {
+        "titulo": "Configurar servidor VPN",
+        "descripcion": "Permitir conexión remota segura.",
+        "estado": "PENDING",
+        "creacion": "2025-12-10T09:00:00",
+        "ultimaEdicion": null,
+        "vencimiento": "2025-12-11T23:59:00",
+        "dificultad": 2
+    },
+    {
+        "titulo": "Crear simulador de grafo ponderado",
+        "descripcion": null,
+        "estado": "IN-PROGRESS",
+        "creacion": "2025-12-11T10:00:00",
+        "ultimaEdicion": null,
+        "vencimiento": null,
+        "dificultad": 3
+    },
+    {
+        "titulo": "Diseñar sistema de control de acceso por tarjeta",
+        "descripcion": "Debe incluir lectura y registro.",
+        "estado": "FINISHED",
+        "creacion": "2025-12-12T11:30:00",
+        "ultimaEdicion": "2025-12-13T12:00:00",
+        "vencimiento": null,
+        "dificultad": 2
+    },
+    {
+        "titulo": "Simular red con topología distribuida",
+        "descripcion": null,
+        "estado": "PENDING",
+        "creacion": "2025-12-13T08:30:00",
+        "ultimaEdicion": null,
+        "vencimiento": "2025-12-14T23:59:00",
+        "dificultad": 2
+    },
+    {
+        "titulo": "Documentar protocolo ICMP",
+        "descripcion": "Incluir funciones y tipos de mensajes.",
+        "estado": "CANCELED",
+        "creacion": "2025-12-14T09:00:00",
+        "ultimaEdicion": "2025-12-15T10:00:00",
+        "vencimiento": null,
+        "dificultad": 1
+    },
+    {
+        "titulo": "Crear simulador de árbol binario balanceado",
+        "descripcion": null,
+        "estado": "PENDING",
+        "creacion": "2025-12-15T10:30:00",
+        "ultimaEdicion": null,
+        "vencimiento": "2025-12-16T23:59:00",
+        "dificultad": 3
+    },
+    {
+        "titulo": "Diseñar lógica de control de energía solar",
+        "descripcion": "Usar paneles y sensores.",
+        "estado": "IN-PROGRESS",
+        "creacion": "2025-12-16T11:00:00",
+        "ultimaEdicion": null,
+        "vencimiento": null,
+        "dificultad": 2
+    },
+    {
+        "titulo": "Configurar servidor de base de datos PostgreSQL",
+        "descripcion": null,
+        "estado": "FINISHED",
+        "creacion": "2025-12-17T08:45:00",
+        "ultimaEdicion": "2025-12-18T09:30:00",
+        "vencimiento": null,
+        "dificultad": 2
+    },
+    {
+        "titulo": "Crear simulador de grafo dirigido acíclico",
+        "descripcion": "Debe permitir ordenamiento topológico.",
+        "estado": "PENDING",
+        "creacion": "2025-12-18T09:00:00",
+        "ultimaEdicion": null,
+        "vencimiento": "2025-12-19T23:59:00",
+        "dificultad": 3
+    },
+    {
+        "titulo": "Diseñar sistema de control de acceso por huella",
+        "descripcion": null,
+        "estado": "IN-PROGRESS",
+        "creacion": "2025-12-19T10:00:00",
+        "ultimaEdicion": null,
+        "vencimiento": null,
+        "dificultad": 1
+    },
+    {
+        "titulo": "Documentar arquitectura de sistemas distribuidos",
+        "descripcion": "Incluir ejemplos y ventajas.",
+        "estado": "CANCELED",
+        "creacion": "2025-12-20T11:30:00",
+        "ultimaEdicion": "2025-12-21T12:00:00",
+        "vencimiento": null,
+        "dificultad": 2
+    },
+    {
+        "titulo": "Simular red con topología lógica",
+        "descripcion": null,
+        "estado": "PENDING",
+        "creacion": "2025-12-21T08:30:00",
+        "ultimaEdicion": null,
+        "vencimiento": "2025-12-22T23:59:00",
+        "dificultad": 2
+    },
+    {
+        "titulo": "Crear sistema de autenticación con código único",
+        "descripcion": "Debe incluir expiración y reenvío.",
+        "estado": "IN-PROGRESS",
+        "creacion": "2025-12-22T09:00:00",
+        "ultimaEdicion": null,
+        "vencimiento": null,
+        "dificultad": 1
+    },
+    {
+        "titulo": "Diseñar lógica de control de carga eléctrica",
+        "descripcion": null,
+        "estado": "FINISHED",
+        "creacion": "2025-12-23T10:00:00",
+        "ultimaEdicion": "2025-12-24T11:00:00",
+        "vencimiento": null,
+        "dificultad": 2
+    },
+    {
+        "titulo": "Configurar servidor de archivos Samba",
+        "descripcion": "Permitir acceso compartido en red local.",
+        "estado": "PENDING",
+        "creacion": "2025-12-24T11:30:00",
+        "ultimaEdicion": null,
+        "vencimiento": "2025-12-25T23:59:00",
+        "dificultad": 2
+    },
+    {
+        "titulo": "Crear simulador de árbol binario completo",
+        "descripcion": null,
+        "estado": "IN-PROGRESS",
+        "creacion": "2025-12-25T08:30:00",
+        "ultimaEdicion": null,
+        "vencimiento": null,
+        "dificultad": 3
+    },
+    {
+        "titulo": "Diseñar sistema de control de acceso por NFC",
+        "descripcion": "Debe incluir lectura y validación.",
+        "estado": "FINISHED",
+        "creacion": "2025-12-26T09:00:00",
+        "ultimaEdicion": "2025-12-27T10:00:00",
+        "vencimiento": null,
+        "dificultad": 2
+    },
+    {
+        "titulo": "Simular red con topología física",
+        "descripcion": null,
+        "estado": "PENDING",
+        "creacion": "2025-12-27T10:30:00",
+        "ultimaEdicion": null,
+        "vencimiento": "2025-12-28T23:59:00",
+        "dificultad": 2
+    },
+    {
+        "titulo": "Documentar protocolo ARP",
+        "descripcion": "Incluir resolución de direcciones.",
+        "estado": "CANCELED",
+        "creacion": "2025-12-28T11:00:00",
+        "ultimaEdicion": "2025-12-29T12:00:00",
+        "vencimiento": null,
+        "dificultad": 1
+    },
+    {
+        "titulo": "Crear simulador de árbol binario perfecto",
+        "descripcion": null,
+        "estado": "PENDING",
+        "creacion": "2025-12-29T08:45:00",
+        "ultimaEdicion": null,
+        "vencimiento": "2025-12-30T23:59:00",
+        "dificultad": 3
+    }
+]
